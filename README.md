@@ -69,4 +69,16 @@ A high-fidelity, cinematic news portal built with **CodeIgniter 4**, featuring a
 
 ---
 
+## 💳 Commercial Licensing & Pricing
+
+This project is **NOT OPEN SOURCE**. It is a premium, commercial-grade product.
+
+- **Current Valuation**: ₹51,837.78 INR
+- **License Type**: Proprietary / Commercial
+- **Contact for Purchase**: [GitHub Profile](https://github.com/parvendrakumar)
+
+Unauthorized copying, distribution, or use of this project without a valid purchase is strictly prohibited.
+
+---
+
 Developed with ❤️ by [Parvendra Kumar](https://github.com/parvendrakumar)

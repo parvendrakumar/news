@@ -1,6 +1,8 @@
 # 📰 Premium News Portal & Editorial Management System
 
-A high-fidelity, cinematic news portal built with **CodeIgniter 4**, featuring a modern administrative dashboard, multi-channel notification system, and immersive visual storytelling.
+A high-fidelity, cinematic news portal built with **CodeIgniter 4**.
+
+**Official URL:** [parvendra.erbloggerboy.thehostme.com](https://parvendra.erbloggerboy.thehostme.com/)
 
 ---
 
@@ -45,7 +47,7 @@ A high-fidelity, cinematic news portal built with **CodeIgniter 4**, featuring a
 3. **Configuration**:
    - Rename `env` to `.env`.
    - Update `database.default.hostname`, `database.default.database`, etc.
-   - Set your `app.baseURL`.
+   - Set your `app.baseURL = 'https://parvendra.erbloggerboy.thehostme.com/'
 4. **Run Migrations/Seeds**:
    ```bash
    php spark migrate
